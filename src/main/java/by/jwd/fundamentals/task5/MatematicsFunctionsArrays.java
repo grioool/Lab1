@@ -48,7 +48,6 @@ public class MatematicsFunctionsArrays {
                 }
             }
         }
-        System.out.println(minValueOfNumbers);
         logger.info(minValueOfNumbers + "");
     }
 
